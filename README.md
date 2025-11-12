@@ -5,7 +5,7 @@ Control your robot
 
 ```shell
 cd ~/ros2_ws
-https://github.com/gianmarco-ferrara/RL2025HW02.git
+git clone https://github.com/gianmarco-ferrara/RL2025HW02.git
 colcon build 
 source install/setup.bash
 ```
