@@ -1,0 +1,12 @@
+/**:
+  ros__parameters:
+    traj_duration: 20.0
+    acc_duration: 1.0
+    total_time: 20.0
+    trajectory_len: 100
+    Kp: 3.0
+    end_position_x: 1.0
+    end_position_y: -0.4
+    end_position_z: 0.8
+    lambda: 10.0
+

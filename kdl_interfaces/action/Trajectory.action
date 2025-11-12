@@ -1,0 +1,16 @@
+geometry_msgs/Point end_position
+float64 traj_duration
+float64 acc_duration
+float64 total_time
+int32 trajectory_len
+float64 kp
+float64 lambda_val
+string traj_type
+string s_type
+string ctrl
+---
+bool success
+string message
+---
+float64 position_error_magnitude
+geometry_msgs/Point current_position
