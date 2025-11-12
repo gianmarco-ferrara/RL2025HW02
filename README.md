@@ -53,7 +53,7 @@ where
 `<cmd_interface>` is `velocity` or `position ` and 
 `<ctrl>` is `velocity_ctrl` or `velocity_ctrl_null`.
 
- ## **2. Vision control** :camera:
+ ## **2. Vision-based control** :camera:
 Launch the `iiwa_world_vision.launch.py` from the `ros2_kdl_package` package with the desired command interface and controller:
 ```shell
 ros2 launch ros2_kdl_package iiwa_world_vision.launch.py
