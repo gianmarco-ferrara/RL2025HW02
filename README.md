@@ -25,7 +25,7 @@ In another terminal launch the `iiwa.control.launch.py` from the `ros2_kdl_packa
 ros2 launch ros2_kdl_package iiwa.control.launch.py cmd_interface:=<cmd_interface> ctrl:=<ctrl>
 ```
 where 
-`<cmd_interface>` is `velocity` or `position ` and 
+`<cmd_interface>` is `velocity` or `position` and 
 `<ctrl>` is `velocity_ctrl` or `velocity_ctrl_null`.
 
  ### 1.2 Control with action server
